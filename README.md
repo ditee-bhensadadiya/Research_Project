@@ -15,7 +15,6 @@ Python, Reinforcement Learning (Q-Learning), ESP32, IoT, DC Motors, TB6612FNG Mo
 Autonomous vehicles, warehouse robotics, delivery systems, and intelligent navigation  
 
 🤝 Collaborator:
-‪@krishna_varsani
-Worked on development and implementation of the project.
+‪krishna varsani Worked on development and implementation of the project.
 
 This project highlights how Artificial Intelligence and IoT can be integrated to build intelligent autonomous systems.
